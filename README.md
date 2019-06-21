@@ -1,2 +1,2 @@
 # School-Projects
-A collection of school projects using C++
+A collection of school projects using C++ / Java / Python
