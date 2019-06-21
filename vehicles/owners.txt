@@ -1,0 +1,20 @@
+15		I		Erica Flower	713 Pile Avenue Chesapeake, VA 23320
+3		D		23321
+18		I		Nancy Marshall	210 Dillon Dr, Virginia Beach, VA 23452
+7		D		23452
+10		D		23502
+19		I		Ben Berman		5225 Virginia Beach Blvd, Virginia Beach, VA 23462
+2		I 		Joey Tribbiani	90 Bedford St. Apt. 19, New York City, NY 10014
+17		D 		23343
+9		I 		Ross Geller		17 Grove Street, Apt. 12, New York City, NY 10014
+1		I		Rachel Green	90 Bedford St. Apt. 20, New York City, NY 10014
+4		D		23320
+11		D 		23454
+6		I 		Phoebe Buffay	5 Morton Street, Apt. 14, New York City, NY 10014
+0		D		23447
+13		I		Stella Pomiank	1907 Colonial Ave, Norfolk, VA 23517	
+8		D		23502
+12		D 		23451
+14		I		Ryan Hume		515 Newtown Rd, Virginia Beach, VA 23462
+16		D 		23541
+5		I 		Gunther Perk	16 Jones Street, Apt. 3, New York City, NY 10014	
